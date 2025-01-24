@@ -21,3 +21,5 @@ Lastly, I added a visualization step where the model made predictions on randoml
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/30fb02b3-cfea-4249-989e-76dca6eeeda5)
+
+![Image](https://github.com/user-attachments/assets/dacb6280-e5c0-4bbe-98c9-60896ce64658)
